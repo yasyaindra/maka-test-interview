@@ -3,7 +3,7 @@ function makaLooping(n) {
     if (i % 3 === 0) {
       console.log("Mari");
     } else if (i % 5 === 0) {
-      console.log("Bekarya");
+      console.log("Berkarya");
     } else {
       console.log(i);
     }
